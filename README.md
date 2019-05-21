@@ -1,0 +1,1 @@
+A simple Alpine container for Python3 and requirements. To be used by PyCharm for my needs. HTH.   
