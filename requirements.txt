@@ -1,4 +1,4 @@
 lxml
 feedgenerator
 requests
-git
+gitpython
